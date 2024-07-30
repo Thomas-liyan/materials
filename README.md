@@ -1,2 +1,2 @@
-# matirials
+# materials
 books,documents,etc
